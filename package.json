@@ -1,0 +1,24 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "read.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hornd24/flashcards.git"
+  },
+  "author": "david",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hornd24/flashcards/issues"
+  },
+  "homepage": "https://github.com/hornd24/flashcards#readme"
+}
